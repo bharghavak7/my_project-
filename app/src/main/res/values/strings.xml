@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Data_Base</string>
+    <string name="usn">USN</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="phone">Phone Number</string>
+    <string name="add">ADD</string>
+    <string name="search">Search</string>
+    <string name="delete">Delete</string>
+    <string name="clear">Clear</string>
+</resources>
